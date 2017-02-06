@@ -3,7 +3,7 @@
 ## [Ask a question](../../issues/new) 
 ## [Read questions](../../issues?q=is%3Aclosed)
 
-AMA is a good way to know each other
+AMA is a good way to know each other.
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
